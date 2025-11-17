@@ -26,6 +26,7 @@ face_recognition_project/
 │── requirements.txt        # Project dependencies
 │── README.md               # Documentation
 
+
 🚀 Getting Started
 1️⃣ Clone the repository
 git clone https://github.com/your-username/face_recognition_project.git
